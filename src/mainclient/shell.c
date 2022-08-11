@@ -436,7 +436,6 @@ static void history_search_prefix(int forward) {
             return;
         }
     }
-
 }
 
 static void historymove(int delta) {
